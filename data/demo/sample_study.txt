@@ -1,0 +1,15 @@
+CLINICAL STUDY PROTOCOL SUMMARY: STEP-1 OBL-2024
+
+Title: Phase 3 Subcutaneous Semaglutide 2.4mg Efficacy and Safety Profile in Obesity Management
+
+Abstract:
+In this 68-week double-blind randomized placebo-controlled clinical trial, subcutaneous semaglutide 2.4 mg once weekly was evaluated in 1,961 adults with overweight or obesity without diabetes.
+
+Primary Endpoints:
+Page 1: The primary endpoint was percent change in body weight from baseline to week 68. Semaglutide achieved a mean weight reduction of 14.9% vs 2.4% in placebo group (p < 0.001).
+
+Secondary Endpoints & Cardiometabolic Risk Factors:
+Page 2: Semaglutide reduced waist circumference, fasting blood glucose, and systolic blood pressure (-5.1 mmHg vs -1.0 mmHg).
+
+Adverse Events:
+Page 3: Gastrointestinal disorders (nausea, diarrhea, vomiting, constipation) were reported in 74.2% of semaglutide subjects vs 47.9% of placebo. Most events were mild to moderate in severity.
