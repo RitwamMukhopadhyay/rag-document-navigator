@@ -25,12 +25,12 @@ jobs:
 
       - name: Run Backend Pytest Test Suite
         env:
-          PYTHONPATH: backend
+          PYTHONPATH: backend:.
         run: |
           pytest backend/tests -v
 
       - name: Run Evaluation Benchmark Test
         env:
-          PYTHONPATH: backend
+          PYTHONPATH: backend:.
         run: |
-          python data/evaluations/evaluate.py
+          python data/eval/evaluate.py
